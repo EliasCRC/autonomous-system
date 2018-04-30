@@ -1,0 +1,12 @@
+#As id
+5
+
+#Redes conocidas
+12.15.0.0
+192.0.0.0
+
+#Vecinos BGP
+10.1.130.104:7777
+
+#Escuchar vecinos
+9999
